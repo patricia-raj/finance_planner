@@ -1,2 +1,2 @@
-# finance_planner
-Finance Planner
+# Finance Planner
+
