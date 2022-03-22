@@ -6,6 +6,8 @@ Being a startup FinTech consultancy firm, and I want to make a difference by wor
 
 This project is to create a tool to help credit union members to enhance their financial health. It includes building a prototype application developed for Chief Technology Officer (CTO) of the credit union to demo in the next credit union assembly.
 
+## Solutions
+
 The solution includes two financial analysis tool to assess the monthly personal finances, and forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds for the credit union board members.
 
 - The **personal finance planner** that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
